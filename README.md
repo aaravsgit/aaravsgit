@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aarav Bejjinki</h1>
 
-<p align="center">
+<p align="left">
 <em>Note: This is a new GitHub account that I created in September 2025 after losing access to my previous one</em>
 </p>
 
