@@ -10,14 +10,13 @@
 </p>
 
 <h3 align="center">Technologies & Frameworks</h3>
-
 <p align="center">
   <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="40" width="40" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" alt="AWS" height="40" width="40" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" height="40" width="40" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" height="40" width="40" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/ffffff" alt="Express" height="40" width="40" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" alt="NestJS" height="40" width="40" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" height="40" width="40" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="40" width="40" /></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" width="40" /></a>
   <br/>
@@ -48,3 +47,4 @@
   <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" height="40" width="40" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" width="40" /></a>
 </p>
+
