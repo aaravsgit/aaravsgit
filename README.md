@@ -3,7 +3,7 @@
 **Note:** I created this Github account in September 2025 after losing access to my previous account.
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/aaravbejjinki/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)(https://www.linkedin.com/in/aaravbejjinki/)
 <!--
 **aaravsgit/aaravsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
