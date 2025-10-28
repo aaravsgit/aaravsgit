@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Aarav Bejjinki
 
+**Note:** I created this Github account in September 2025 after losing access to my previous account.
 <!--
 **aaravsgit/aaravsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
