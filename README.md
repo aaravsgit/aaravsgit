@@ -1,20 +1,13 @@
-## Hi, I'm Aarav Bejjinki
+<h1 align="center">Hi, I'm Aarav Bejjinki</h1>
 
-**Note:** I created this Github account in September 2025 after losing access to my previous account.
+<p align="center">
+<em>Note: This is my new GitHub account (created in September 2025) after losing access to my previous one — all recent work is now consolidated here.</em>
+</p>
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aaravbejjinki/)
-<!--
-**aaravsgit/aaravsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/aaravbejjinki/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
