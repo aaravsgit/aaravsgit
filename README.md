@@ -12,7 +12,7 @@
 <h3 align="center">Technologies & Frameworks</h3>
 <p align="center">
   <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="40" width="40" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" height="40" width="40" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" width="40" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" height="40" width="40" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/ffffff" alt="Express" height="40" width="40" /></a>
